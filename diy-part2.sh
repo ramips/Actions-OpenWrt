@@ -12,4 +12,4 @@
 
 # Modify default IP
 sed -i 's/192.168.1.1/192.168.123.1/g' package/base-files/files/bin/config_generate
-wget http://hk-d.npls.io/pkgs/.config_redmi -O .config
+wget http://hk-d.npls.io/pkgs/.config_r3g -O .config
